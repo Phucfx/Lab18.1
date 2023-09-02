@@ -1,0 +1,16 @@
+.bg-img1 {
+  background-size: cover;
+  background-image: url(https://htlcomputer.com.vn/wp-content/uploads/2020/11/M%C3%A1y-T%C3%ADnh-HTl_v%C5%A9-tr%E1%BB%A5-m%E1%BB%9Bi_-39-1-1-1024x576.jpg);
+}
+.bg-img2 {
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/736x/b2/4f/c9/b24fc907a87d97dc95d16400c935b00e.jpg);
+}
+.bg-img3 {
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/originals/91/cd/19/91cd19b23307cc92da34e8167b947fef.jpg);
+}
+
+.carousel-item {
+  height: 32rem;
+}
